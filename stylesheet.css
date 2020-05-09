@@ -1,23 +1,5 @@
-.name {
+.introduction {
   color: #02ccba;
   padding: 20px;
-  opacity: 1;
-}
-
-.profession {
-  color: #ffff00;
-  padding: 20px;
   opacity: 0.7;
-}
-
-.favorite {
-  color: #3cb371;
-  padding: 20px;
-  opacity: 0.4;
-}
-
-dislike {
-  color: #ff0000;
-  padding: 20px;
-  opacity: 0.1;
 }
